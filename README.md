@@ -1,6 +1,6 @@
 # PID-Control-Project [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-A PID Controller in C++ to maneuver the vehicle around the track.
+A Proportional Integral Derivative controller to maneuver the vehicle smoothly and safely around the track.
 
 Dependencies
 ---
